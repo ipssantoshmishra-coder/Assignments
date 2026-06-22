@@ -1,0 +1,18 @@
+# === C Language Ignores ===
+*.out
+*.exe
+*.o
+*.obj
+
+# === Python Language Ignores ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# === Mac System Ignores ===
+.DS_Store
